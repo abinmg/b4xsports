@@ -271,7 +271,7 @@ html {
     <div class="container">
 
 
-        <video   class="player" controls="" data-poster="https://i.postimg.cc/50xMB20w/1711021278052.jpg" src="https://dai.google.com/linear/hls/event/<?html echo $_REQUEST["LOKIIPTV"]; ?>/master.m3u8" class="player" autoplay></video>
+        <video   class="player" controls="" data-poster="https://i.postimg.cc/50xMB20w/1711021278052.jpg" src="https://dai.google.com/linear/hls/event/<?php echo $_REQUEST["B4X"]; ?>/master.m3u8" class="player" autoplay></video>
 
 
     </div>
@@ -312,10 +312,12 @@ html {
 </body>
 
 
-   <a href="https://chat.whatsapp.com/EhU7KFNtgzO7wyfUmqAbD9" target="_blank">
-<span style="position: absolute; z-index: 100; top: 130px; left: 10px; height: 25px; width: 200px; color: rgb(204, 204, 204); border: 2px solid rgb(204, 204, 204); padding: 1px 0px; border-radius: 2px; text-align: center;">
-Join us B4X SPORTS
+   <a href="https://www.whatsapp.com/channel/0029Va6V441BqbrA2NZpkH2z" target="_blank">
+<span style="position: absolute; z-index: 100; top: 30px; left: 10px; height: 25px; width: 100px; color: rgb(204, 204, 204); border: 2px solid rgb(204, 204, 204); padding: 1px 0px; border-radius: 2px; text-align: center;">
+Join us 
 </span>
 </a>
 
 </html>
+
+
